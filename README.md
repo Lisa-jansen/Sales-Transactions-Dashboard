@@ -1,7 +1,7 @@
  🧮 Sales Transactions Dashboard (Power BI)
 
-This Power BI project analyzes **online and in-store sales transactions** to uncover actionable insights into business performance, customer behavior, and operational efficiency.  
-The dashboard provides a comprehensive view of sales trends, **order priorities, payment methods, returns, and product category performanceacross multiple countries and store types(online and instore).
+This Power BI project analyzes online and in-store sales transactions to uncover actionable insights into business performance, customer behavior, and operational efficiency.  
+The dashboard provides a comprehensive view of sales trends, order priorities, payment methods, returns, and product category performanceacross multiple countries and store types(online and instore).
 
 📊 Project Overview
 
